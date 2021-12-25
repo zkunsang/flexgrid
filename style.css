@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+
+  align-items: flex-start;
+}
+
+.item {
+  width: 150px;
+}
+.box1 {
+  background-color: red;
+}
+.box2 {
+  background-color: blue;
+}
+
+.box3 {
+  background-color: rgb(103, 28, 173);
+}
